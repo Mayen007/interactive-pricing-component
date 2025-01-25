@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/Mayen007/interactive-pricing-component)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://mayen007.github.io/interactive-pricing-component/)
 
 ## My Process
 
