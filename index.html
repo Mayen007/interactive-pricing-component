@@ -19,16 +19,14 @@
       <div class="sub__cont">
         <div class="views__amount">
           <p class="pageviews" id="pageviews">100K pageviews</p>
+          <input type="range" class="price-slider" id="slider" min="0" max="400" step="1" value="200"
+            aria-label="Slider to select the amount of pageviews" />
           <p class="price">
             <span class="amount" id="price">$16.00</span>
             <span class="duration">/ month</span>
           </p>
         </div>
         <!-- Slider here -->
-        <label for="slider" class="slider-container">
-          <input type="range" class="price-slider" id="slider" min="0" max="400" step="1" value="200"
-            aria-label="Slider to select the amount of pageviews" />
-        </label>
         <div class="billing__cont">
           <p class="billing__item">Monthly Billing</p>
           <!-- Toggle here -->
@@ -38,7 +36,8 @@
             <span class="slider"></span>
           </label>
           <p class="billing__item">Yearly Billing <span class="discount">25% discount</span>
-          <span class="discount mobile">-25%</span></p>
+            <span class="discount mobile">-25%</span>
+          </p>
         </div>
       </div>
       <hr class="horizontal__line">
